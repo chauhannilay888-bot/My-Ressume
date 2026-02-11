@@ -5,8 +5,7 @@ This is my first public GitHub repo with fun and useful projects using Streamlit
 
 Projects include:
 - NEET Registration Tool
-- Bakery Order System
-- Graph Creator App
+- Graph Creator App, etc.
 
 Check them out! ⭐ If you like it, give a star!
 
